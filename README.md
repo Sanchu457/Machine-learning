@@ -14,5 +14,9 @@ Performed dimensionality reduction.
 
 Predicted test_df values using XGBoost with help of XFboost library.![156052348-6cc68474-57be-4113-9e7c-fa4184060269](https://user-images.githubusercontent.com/95237822/162043029-b3fd7a9d-876a-45f9-be4c-88ee0ad0f6cb.jpg)
 
+This is a pictorial view for comparison between the target for training data-set and predicted target for testing data-set.![196052432-76c1d2a4-5299-425a-a59f-d36f8875a52c](https://user-images.githubusercontent.com/95237822/162043573-c34bea99-40e3-4307-b261-040953e2bccb.jpg)
+[merceds.pdf](https://github.com/Sanchu457/Machine-learning/files/8429486/merceds.pdf)
+
+
 
 
