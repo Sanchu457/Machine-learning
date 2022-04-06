@@ -12,6 +12,7 @@ Applied the label encoder with help of Sklearn library.
 
 Performed dimensionality reduction.
 
-Predicted test_df values using XGBoost with help of XFboost library.
+Predicted test_df values using XGBoost with help of XFboost library.![156052348-6cc68474-57be-4113-9e7c-fa4184060269](https://user-images.githubusercontent.com/95237822/162043029-b3fd7a9d-876a-45f9-be4c-88ee0ad0f6cb.jpg)
 
-This is a pictorial view for comparison between the target for training data-set and predicted target for testing data-set.
+
+
